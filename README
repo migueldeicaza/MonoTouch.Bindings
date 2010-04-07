@@ -1,0 +1,6 @@
+These are MonoTouch projects for existing Objective-C libraries, they
+contain projects that produce the MonoTouch assemblies that bind those
+APIs.
+
+If you want to contribute, drop me a note.
+
